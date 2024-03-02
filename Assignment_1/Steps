@@ -1,0 +1,43 @@
+**1. Designing the Prototype in Figma:**
+   - Open Figma and create a new project for your website prototype.
+   - Design the user interface, considering layout, colors, and components.
+   - Use Figma's interactive features to create a functional prototype with links and transitions.
+
+**2. Setting Up GitHub Repository:**
+   - Go to GitHub and log in to your account.
+   - Click on the "+" sign in the top right corner and select "New repository."
+   - Provide a name for your repository, add a brief description, and initialize it with a README if needed.
+   - Click on "Create repository."
+
+**3. Local Project Setup:**
+   - Open your terminal or command prompt on your computer.
+   - Navigate to the directory where you want to store your project.
+   - Clone the GitHub repository to your local machine using the `git clone` command.
+
+**4. Code Implementation:**
+   - Open your preferred code editor (e.g., Visual Studio Code).
+   - Begin coding your website based on the Figma prototype.
+   - Create HTML, CSS, and JavaScript files as needed.
+   - Implement the design and functionality outlined in your Figma project.
+
+**5. Testing Locally:**
+   - Test your website locally by opening the HTML file in a web browser.
+   - Debug and fix any issues or discrepancies between the prototype and the implemented code.
+
+**6. Git Commands:**
+   - Use the `git status` command to check the status of your local repository.
+   - Use `git add` to stage the changes you've made.
+   - Commit your changes using `git commit` with a descriptive message.
+   - Push your changes to the GitHub repository with `git push`.
+
+**7. GitHub Upload:**
+   - Visit your GitHub repository online to ensure your changes have been pushed.
+   - Verify that the code, as well as any additional files or folders, is present in the repository.
+
+**8. Branching and Collaboration (if applicable):**
+   - If working with collaborators, create branches for different features or team members.
+   - Use pull requests to merge changes into the main branch.
+
+**9. Documentation:**
+   - Create a README.md file in your GitHub repository.
+   - Include essential information about the project, installation instructions, and any dependencies.
